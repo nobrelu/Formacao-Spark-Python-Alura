@@ -120,6 +120,9 @@ venv.bak/
 # mkdocs documentation
 /site
 
+# Conteúdo do curso - Direito Autoral
+/material-complementar 
+
 # mypy
 .mypy_cache/
 .dmypy.json
