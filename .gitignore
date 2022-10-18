@@ -123,6 +123,9 @@ venv.bak/
 # Conteúdo do curso - Direito Autoral
 /material-complementar 
 
+# Conteúdo dos dados públicos CNPJ
+/data 
+
 # mypy
 .mypy_cache/
 .dmypy.json
